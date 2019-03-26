@@ -1,0 +1,2 @@
+Hystrix service with fallback mechanism in place.
+If the resttemplace could not fetch result in sometime, It would call a fallback method.
